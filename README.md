@@ -18,15 +18,17 @@ Pastime : Watching <img src="https://cdn.worldvectorlogo.com/logos/new-youtube-l
 
 ## Worked On
 
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width = 50>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width = 50>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" width = 100>&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Dialogflow_logo.svg/1041px-Dialogflow_logo.svg.png" width = 150>
-&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width = 50>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/github-1.svg" width = 50>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width = 50>
-&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width = 50>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width = 50>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" width = 100>&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Dialogflow_logo.svg/1041px-Dialogflow_logo.svg.png" width = 150>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width = 50>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/github-1.svg" width = 50>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width = 50>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width = 60>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/android.svg" width = 40>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" width = 50>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width = 50>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" width = 40>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width = 40>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width = 50>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width = 40>
 
@@ -39,13 +41,13 @@ Pastime : Watching <img src="https://cdn.worldvectorlogo.com/logos/new-youtube-l
 
 ## My Creative Side
 
-<a href="https://www.instagram.com/the_alpha.eye__/" target="_blank"><img src = "https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" width = 50></a>
+<a href="https://www.instagram.com/the_alpha.eye__/" target="_blank"><img src = "https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" width = 30></a>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/lightroom-cc.svg" width = 50>
+<img src="https://cdn.worldvectorlogo.com/logos/lightroom-cc.svg" width = 30>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" width = 50>
+<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" width = 30>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" width = 50>
+<img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" width = 30>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.shutterstock.com/g/Ketan+Lambat" target="_blank"><img src = "https://cdn.worldvectorlogo.com/logos/shutterstock.svg" width = 100></a>
 
