@@ -8,6 +8,12 @@ Music 🎵 I listen to while Coding : EDM 🎧, Metal 🎸
 
 Pastime : Watching <img src="https://cdn.worldvectorlogo.com/logos/new-youtube-logo.svg" width=70> videos, Reading Books 📖
 
+## Competitive Programming
+
+<a href ="https://www.codechef.com/users/ketan_techguy" target="_blank"><img src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" width=50></a>&nbsp;&nbsp;&nbsp;
+<a href ="https://codeforces.com/profile/alpha_121" target="_blank"><img src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" width=50></a>&nbsp;&nbsp;&nbsp;
+<a href ="https://leetcode.com/ketan-lambat/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width=50></a>
+
 ## Blogs
 
 <a href="https://medium.com/@lambatketan" target="_blank"><img src = "https://cdn.worldvectorlogo.com/logos/medium-logo-wordmark-black.svg" width=100></a>
