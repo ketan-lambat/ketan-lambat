@@ -1,10 +1,14 @@
 ## Hey There 👋
 
-# About Me
+## About Me
 
 #### I am an undergraduate student at Indian Institute of Information Technology Sri City, AP, India.
 
-# Blogs
+Music 🎵 I listen to while Coding : EDM 🎧, Metal 🎸
+
+Pastime : Watching <img src="https://cdn.worldvectorlogo.com/logos/new-youtube-logo.svg" width=70> videos, reading books 📖
+
+## Blogs
 
 <table>
 <tr>
@@ -21,7 +25,7 @@
 </tr>
 </table>
 
-# Worked On
+## Worked On
 
 <table>
 <tr>
@@ -77,7 +81,7 @@
 </tr>
 </table>
 
-# Upcoming Projects on
+## Upcoming Projects on
 
 <table>
 <tr>
@@ -95,7 +99,7 @@
 </td>
 </table>
 
-# My Creative Side
+## My Creative Side
 
 <table>
 <tr>
