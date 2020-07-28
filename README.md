@@ -10,11 +10,13 @@ Pastime : Watching <img src="https://cdn.worldvectorlogo.com/logos/new-youtube-l
 
 ## Blogs
 
-<a href="https://medium.com/@lambatketan"><img src = "https://cdn.worldvectorlogo.com/logos/medium-logo-wordmark-black.svg" width=150></a>
+| <a href="https://medium.com/@lambatketan"><img src = "https://cdn.worldvectorlogo.com/logos/medium-logo-wordmark-black.svg" width=150></a> | <a href="https://dev.to/ketanlambat"><img src = "https://cdn.worldvectorlogo.com/logos/devto.svg" width=100></a> | <a href="https://www.geeksforgeeks.org/ternary-representation-of-cantor-set/"><img src = "https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width=200></a> |
+
+<!-- <a href="https://medium.com/@lambatketan"><img src = "https://cdn.worldvectorlogo.com/logos/medium-logo-wordmark-black.svg" width=150></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dev.to/ketanlambat"><img src = "https://cdn.worldvectorlogo.com/logos/devto.svg" width=100></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/ternary-representation-of-cantor-set/"><img src = "https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width=200></a>
+<a href="https://www.geeksforgeeks.org/ternary-representation-of-cantor-set/"><img src = "https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width=200></a> -->
 
 ## Worked On
 
