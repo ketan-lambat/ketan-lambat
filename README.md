@@ -6,24 +6,15 @@
 
 Music 🎵 I listen to while Coding : EDM 🎧, Metal 🎸
 
-Pastime : Watching <img src="https://cdn.worldvectorlogo.com/logos/new-youtube-logo.svg" width=70> videos, reading books 📖
+Pastime : Watching <img src="https://cdn.worldvectorlogo.com/logos/new-youtube-logo.svg" width=70> videos, Reading Books 📖
 
 ## Blogs
 
-<table>
-<tr>
-<td>
 <a href="https://medium.com/@lambatketan"><img src = "https://cdn.worldvectorlogo.com/logos/medium-logo-wordmark-black.svg" width=150></a>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dev.to/ketanlambat"><img src = "https://cdn.worldvectorlogo.com/logos/devto.svg" width=100></a>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/ternary-representation-of-cantor-set/"><img src = "https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width=200></a>
-</td>
-
-</tr>
-</table>
 
 ## Worked On
 
@@ -149,7 +140,7 @@ Pastime : Watching <img src="https://cdn.worldvectorlogo.com/logos/new-youtube-l
 
 ![GitHub](https://img.shields.io/github/license/ketan-lambat/ketan-lambat?style=plastic)
 
-[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/mixxxdj/mixxx/pull/2595)
 
 <!-- [![HitCount](http://hits.dwyl.com/ketan-lambat/ketan-lambat.svg)](http://hits.dwyl.com/ketan-lambat/ketan-lambat) -->
 
