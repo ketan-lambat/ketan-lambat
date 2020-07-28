@@ -10,121 +10,66 @@ Pastime : Watching <img src="https://cdn.worldvectorlogo.com/logos/new-youtube-l
 
 ## Blogs
 
-<table>
-<tr>
-<td>
-<a href="https://medium.com/@lambatketan"><img src = "https://cdn.worldvectorlogo.com/logos/medium-logo-wordmark-black.svg" width=150></a>
-</td>
-<td>
-<!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
-<a href="https://dev.to/ketanlambat"><img src = "https://cdn.worldvectorlogo.com/logos/devto.svg" width=100></a>
-<!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
-</td>
-<td>
-<a href="https://www.geeksforgeeks.org/ternary-representation-of-cantor-set/"><img src = "https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width=200></a>
-</td>
-</tr>
-</table>
+<a href="https://medium.com/@lambatketan" target="_blank"><img src = "https://cdn.worldvectorlogo.com/logos/medium-logo-wordmark-black.svg" width=100></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://dev.to/ketanlambat" target="_blank"><img src = "https://cdn.worldvectorlogo.com/logos/devto.svg" width=50></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/ternary-representation-of-cantor-set/" target="_blank"><img src = "https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width=150></a>
 
 ## Worked On
 
-<table>
-<tr>
-<td>
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width = 50>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width = 50>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" width = 100>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Dialogflow_logo.svg/1041px-Dialogflow_logo.svg.png" width = 150>
-</td>
-
-</tr>
-</table>
-<table>
-<tr>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width = 50>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/github-1.svg" width = 50>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width = 50>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width = 60>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/android.svg" width = 40>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" width = 50>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width = 50>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width = 50>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width = 40>
-</td>
-</tr>
-</table>
+&nbsp;&nbsp;&nbsp;
 
 ## Upcoming Projects on
 
-<table>
-<tr>
-<td>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width = 50>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width = 50>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" width = 40>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg" width = 100>
-</td>
-</table>
 
 ## My Creative Side
 
-<table>
-<tr>
-<td>
-<a href="https://www.instagram.com/the_alpha.eye__/"><img src = "https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" width = 50></a>
-</td>
-<td>
+<a href="https://www.instagram.com/the_alpha.eye__/" target="_blank"><img src = "https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" width = 50></a>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/lightroom-cc.svg" width = 50>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" width = 50>
-</td>
-<td>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" width = 50>
-</td>
-<td>
-<a href="https://www.shutterstock.com/g/Ketan+Lambat"><img src = "https://cdn.worldvectorlogo.com/logos/shutterstock.svg" width = 100></a>
-</td>
-</tr>
-</table>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.shutterstock.com/g/Ketan+Lambat" target="_blank"><img src = "https://cdn.worldvectorlogo.com/logos/shutterstock.svg" width = 100></a>
 
 ---
 
-<a href="https://www.linkedin.com/in/ketan-lambat/"><img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width = 40></a>
+<a href="https://www.linkedin.com/in/ketan-lambat/" target="_blank"><img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width = 40></a>
 &nbsp;&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/twitter/follow/KetanLambat.svg?style=social&label=@KetanLambat)](https://twitter.com/KetanLambat)
 &nbsp;&nbsp;&nbsp;
