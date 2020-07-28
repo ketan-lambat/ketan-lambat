@@ -10,13 +10,21 @@ Pastime : Watching <img src="https://cdn.worldvectorlogo.com/logos/new-youtube-l
 
 ## Blogs
 
-| <a href="https://medium.com/@lambatketan"><img src = "https://cdn.worldvectorlogo.com/logos/medium-logo-wordmark-black.svg" width=150></a> | <a href="https://dev.to/ketanlambat"><img src = "https://cdn.worldvectorlogo.com/logos/devto.svg" width=100></a> | <a href="https://www.geeksforgeeks.org/ternary-representation-of-cantor-set/"><img src = "https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width=200></a> |
-
-<!-- <a href="https://medium.com/@lambatketan"><img src = "https://cdn.worldvectorlogo.com/logos/medium-logo-wordmark-black.svg" width=150></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
+<td>
+<a href="https://medium.com/@lambatketan"><img src = "https://cdn.worldvectorlogo.com/logos/medium-logo-wordmark-black.svg" width=150></a>
+</td>
+<td>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://dev.to/ketanlambat"><img src = "https://cdn.worldvectorlogo.com/logos/devto.svg" width=100></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/ternary-representation-of-cantor-set/"><img src = "https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width=200></a> -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
+</td>
+<td>
+<a href="https://www.geeksforgeeks.org/ternary-representation-of-cantor-set/"><img src = "https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width=200></a>
+</td>
+</tr>
+</table>
 
 ## Worked On
 
@@ -116,28 +124,16 @@ Pastime : Watching <img src="https://cdn.worldvectorlogo.com/logos/new-youtube-l
 
 ---
 
-<table>
-<tr>
-
-<td>
 <a href="https://www.linkedin.com/in/ketan-lambat/"><img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width = 40></a>
-</td>
-<td>
-
+&nbsp;&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/twitter/follow/KetanLambat.svg?style=social&label=@KetanLambat)](https://twitter.com/KetanLambat)
-
-</td>
-<td>
-
+&nbsp;&nbsp;&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/ketan-lambat?style=social)
-
-</td>
-</tr>
-</table>
 
 ---
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+&nbsp;&nbsp;&nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 
 ![GitHub](https://img.shields.io/github/license/ketan-lambat/ketan-lambat?style=plastic)
