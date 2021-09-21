@@ -20,7 +20,7 @@ Pastime : Watching <img src="https://cdn.worldvectorlogo.com/logos/new-youtube-l
 &nbsp;&nbsp;&nbsp;
 <a href="https://dev.to/ketanlambat" target="_blank"><img src = "https://cdn.worldvectorlogo.com/logos/devto.svg" width=50></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/ternary-representation-of-cantor-set/" target="_blank"><img src = "https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width=150></a>
+<a href="https://auth.geeksforgeeks.org/user/the_alphaEye/articles" target="_blank"><img src = "https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width=150></a>
 
 ## Worked On
 
